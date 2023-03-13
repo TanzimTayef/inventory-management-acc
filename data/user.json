@@ -1,0 +1,13 @@
+[
+  {
+    "email": "mezba1@test.com",
+    "password": "mezba123456#A",
+    "confirmPassword": "mezba123456#A",
+    "firstName": "Mezbaul Abedin",
+    "lastName": "Farhan",
+    "shippingAddress": "944 osthir Street",
+    "presentAddress": "944 Ghana Street",
+    "permanentAddress": "944 Ghana Street",
+    "imageURL": "https://i.ibb.co/WnFSs9Y/unnamed.webp"
+  }
+]
